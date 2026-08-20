@@ -12,3 +12,7 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+
+# Admin-only campaign material must never enter the public release repository.
+content/Projects/Korku/Campaigns/
+content/Projects/Korku/Assets/Campaigns/

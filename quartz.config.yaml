@@ -12,6 +12,9 @@ configuration:
     - private
     - templates
     - .obsidian
+    # Campaign notes and their assets are private source-vault material.
+    - Projects/Korku/Campaigns/**
+    - Projects/Korku/Assets/Campaigns/**
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
