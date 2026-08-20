@@ -1,3 +1,15 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Mobile screens need the graph and backlinks in a vertical reading flow.
+@media all and ($mobile) {
+  .page > #quartz-body .sidebar.right {
+    flex-direction: column;
+    gap: 1.5rem;
+
+    & > * {
+      flex: none;
+      width: 100%;
+      max-height: none;
+    }
+  }
+}

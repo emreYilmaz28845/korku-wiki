@@ -10,6 +10,7 @@ Campaign notes and campaign assets are admin-only. They remain in the private Ob
 
 - `Projects/Korku/Campaigns/`
 - `Projects/Korku/Assets/Campaigns/`
+- `Projects/Korku/Campaigns.md`
 
 To refresh the public Korku content from the private vault, run:
 

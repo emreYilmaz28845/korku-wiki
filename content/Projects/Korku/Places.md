@@ -6,8 +6,4 @@ up:
 
 # Places
 
-```dataview
-LIST FROM "Projects/Korku/Places"
-WHERE file.name != this.file.name
-SORT file.name ASC
-```
+- [[Projects/Korku/Places/Mirai]]

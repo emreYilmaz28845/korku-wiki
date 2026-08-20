@@ -28,7 +28,6 @@ up:
 
 - [Fikirler](Korku/Fikirler.md)
 - [Bölümler](Korku/B%C3%B6l%C3%BCmler.md)
-- [[Projects/Korku/Campaigns]]
 - [[Projects/Korku/Stories]]
 
 ## Reference

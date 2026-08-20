@@ -17,6 +17,7 @@ fi
 
 # These paths are campaign spoilers and must remain in the private vault.
 rsync -a --delete \
+  --exclude='Campaigns.md' \
   --exclude='Campaigns/***' \
   --exclude='Assets/Campaigns/***' \
   "$source_root/" "$target_root/"
