@@ -6,4 +6,8 @@ up:
 
 # Events
 
-- [[Projects/Korku/Events/Adnern İsyanı]]
+```dataview
+LIST FROM "Projects/Korku/Events"
+WHERE file.name != this.file.name
+SORT file.name ASC
+```

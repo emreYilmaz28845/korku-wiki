@@ -1,18 +1,18 @@
+---
+type: idea
+status: canon-compatible
+canon_source: "[[Projects/Korku/World/Wathia Kronoloji Uzun anlatım]]"
+---
+
 # Büyük Aberos Patlaması
 
-Owner: Emre Yılmaz
-Last edited time: April 9, 2025 12:01 AM
+> [!info] Kanon notu
+> Patlamanın kesin faili ve teknik ayrıntıları açık bırakılmıştır. Eski notlardaki “4. Junou” ve “4. Murat tipi kral” ifadeleri kanon değildir.
 
-[[Projects/Korku/World/Lütuf Muhafızları ve Morte_nin Kurumsallaşması|Lütuf Muhafızları]] iç savaşında kuzeylilerin önünde sadece [[Projects/Korku/Data/Aberos|Aberos]] engeli kalmıştı ama şehir düşmemek için elinden geleni yapıyordu. Buradaki asıl sıkıntı Aberos'un çok sağlam duvarları olmasından ya da defansının çok güçlü olmasından değildi.
-Sıkınıtı şuydu=
--Aberos'un içindeki halk kendi halkın, [[Projects/Korku/Krallıklar/Günümüz/Wathia|Wathia]] halkı. Bu yüzden LLM, Aberos'u kuşatırken fazlasıyla ehemmiyet gösteriyordu. Bundan dolayı sularına zehir katsalar kendi halkını zehirlemiş, duvarları yıksalar kendi halkının duvarlarını yıkmış olacaklardı.
+LM İç Savaşı'nda Louvas kanadının önünde Aberos kalmıştı. Şehirdeki halk Wathia halkı olduğu için Louvas LM'si kuşatma sırasında kendi nüfusunu yok etme riskini göze almak istemiyordu.
 
-LLM, Aberos'ta içten bir müdahele ile ALM'yi düşürmeye çalıştı ama ALM, gizlilik ve suikast işlerinde LLM'den çok daha iyi olduğu için bu başarısızlıkla sonuçlandı.
+Louvas kanadının Aberos LM'sini içeriden müdahale ve suikastlarla düşürme girişimleri sonuç vermedi. Ardından Aberos'ta art arda büyük patlamalar meydana geldi. Patlamaların bir kısmı surlarda, bir kısmı askerî yapılarda, en büyüğü ise hisar çevresinde gerçekleşti. Bu olayların Louvas LM'si tarafından yapıldığı iddia edildi; sorumluluk kesinleşmedi.
 
-Bir süre sonra LLM'in yaptığı iddia edilen ama kesin olarak kimin yaptığı bilinmeyen bir şekilde Aberos'ta peşpeşe büyük bir patlamalar olur. Bazı patlamar duvarlarda oyuklar açar, bazı patlamalar askeri karargahlarda olur, en önemli patlama ise hisarda gerçekleşir. Bu patlamalar sonucunda LLM orduları şehre girebilmiş ve ALM kısa sürede teslim olmuştur.
+Patlamalar Aberos savunmasını kırdı ve şehir kısa süre içinde teslim oldu. Sonuç olarak Aberos LM'si dağıldı, J10'un iktidarı sona erdi ve Louvas'ın desteklediği J11 tahta çıktı.
 
-Aberos'un düşmesiyle beraber kral 4.Junou LLM'yi tek LM olarak tanımış ve [[Projects/Korku/World/Louvas Hakkında|Louvas]]'ın LM'nin özel yeri olduğunu kabul etmiştir.
-Bu sonuçlara bakacak olursak LLM'nin savaşı kazandığını ve Wathia'nın defakto liderleri olduğunu düşünebiliriz.
-Ardında neler yaşanmış olabilir=
--Her hanedan ortak bildiri geçip LM'nin tasfiyesi istenince Aberos'ta (bir şekilde) 4. Murat tarzı bi kral başa geliyor ve LM'yi tasfiye ediyor.
--LM'nin (belki de özellikle LLM'nin) üzerinde bir [[Projects/Korku/World/Concepts/Cadı Avı|cadı avı]] başlatılabilir.
+Patlamadan sonra büyük hanedanlar LM'nin insan gücünü kısıtladı. Aile veto hakkı, askerî yetki sınırlamaları ve kurumun siyasî tasfiyesi yönündeki baskılar bu dönemin devamında ortaya çıktı.

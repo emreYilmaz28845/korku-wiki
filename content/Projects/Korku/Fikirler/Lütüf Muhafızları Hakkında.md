@@ -1,10 +1,17 @@
-# Lütüf Muhafızları Hakkında
+---
+type: idea
+status: canon-compatible
+canon_source: "[[Projects/Korku/World/Wathia Kronoloji Uzun anlatım]]"
+---
 
-Owner: Emre Yılmaz
-Last edited time: May 14, 2024 12:28 AM
+# Lütuf Muhafızları Hakkında
 
-[[Projects/Korku/World/Lütuf Muhafızları ve Morte_nin Kurumsallaşması|LM]] tam olarak nasıl çalışıyor olabilir?
+Joan Rothburn döneminde Wathia'nın merkezîleşmesini ve Rothburn meşruiyetini güçlendirmek için kurumsallaştırılan yapı Lütuf Muhafızlarıdır.
 
-[[Projects/Korku/Karakterler/Soylu Karakterler/Rothburn/Joan Rothburn|Joan Rothburn]] ile birlikte [[Projects/Korku/Krallıklar/Günümüz/Wathia|Wathia]] krallığının merkeziyetçiliğini arttırma amacıyla temeli atılan bu yapı nasıl işleyen bi sistem?
+## Aberos mu, Louvas mı?
 
-Lütüf Muhafızları ilk başta [[Projects/Korku/Data/Aberos|Aberos]]’ta mı yoksa [[Projects/Korku/World/Louvas Hakkında|Louvas]]’ta mı kurulmuştur. Louvas topraklarının bir zamanlar [[Projects/Korku/Krallıklar/Günümüz/Wathia/Aileler/Büyük Aileler/Pittnor|pittnor]] sınırlarına yakın olduğunu biliyoru
+- Erken dönemde idarî ve saray bağlantısı Aberos'tadır.
+- **Yıl 18 civarında** kurumun kuruluşu Joan tarafından tamamlanır.
+- Askerî kanat, kuzey isyanlarına ve sınır tehditlerine hızlı müdahale edebilmek için Louvas'ta yoğunlaşır.
+
+Dolayısıyla “LM ilk olarak Aberos'ta mı, Louvas'ta mı kuruldu?” sorusunun kanonla uyumlu cevabı şudur: kurumun siyasî temeli Aberos'ta, askerî merkezi ise zamanla Louvas'ta şekillenmiştir.

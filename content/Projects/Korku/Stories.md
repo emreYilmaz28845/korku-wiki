@@ -6,5 +6,8 @@ up:
 
 # Stories
 
-- [[Projects/Korku/Stories/Aldo 1 (bitmedi)]]
-- [[Projects/Korku/Stories/Untitled]]
+```dataview
+LIST FROM "Projects/Korku/Stories"
+WHERE file.name != this.file.name
+SORT file.name ASC
+```

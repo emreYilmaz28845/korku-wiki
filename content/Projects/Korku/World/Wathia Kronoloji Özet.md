@@ -1,5 +1,7 @@
 ---
 type: world-lore
+status: canon-summary
+canon_source: "[[Projects/Korku/World/Wathia Kronoloji Uzun anlatım]]"
 up:
   - "[[Projects/Korku/World]]"
 ---

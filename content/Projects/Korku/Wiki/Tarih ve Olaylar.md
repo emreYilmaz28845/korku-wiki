@@ -8,17 +8,14 @@ up:
 
 ## Wathia Tarihi
 
-- [[Projects/Korku/World/Wathia Kronoloji Özet]]
-- [[Projects/Korku/World/Wathia Kronoloji (revize)]]
 - [[Projects/Korku/World/Wathia Kronoloji Uzun anlatım]]
-- [[Projects/Korku/World/Wathia Kronoloji]]
-- [[Projects/Korku/World/Wathia_nın Doğuşu]]
-- [[Projects/Korku/Fikirler/Wathia’nın Doğuşu]]
+- [[Projects/Korku/World/Wathia Kronoloji Özet]]
+
+Eski ve çelişen taslaklar kanon dışı arşivde tutulur; public wiki yalnızca yukarıdaki kanon kaynaklarını gösterir.
 
 ## Savaşlar, Krizler ve İsyanlar
 
 - [[Projects/Korku/Events/Adnern İsyanı]]
-- [[Projects/Korku/Bölümler/Adnern Olayı]]
 - [[Projects/Korku/World/LM İç Savaşı]]
 - [[Projects/Korku/Fikirler/Büyük Aberos Patlaması]]
 - [[Projects/Korku/Fikirler/70 Yıl Savaşları (Büyük Alegon Savaşı)]]

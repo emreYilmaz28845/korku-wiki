@@ -1,28 +1,31 @@
+---
+type: idea
+status: canon-compatible
+canon_source: "[[Projects/Korku/World/Wathia Kronoloji Uzun anlatım]]"
+---
+
 # Nehir Baronları
 
-Owner: Emre Yılmaz
-Last edited time: May 4, 2023 2:44 AM
+> [!info] Kanon notu
+> Bu sayfa Nehir Baronlarının kültürel ve siyasal kökenini anlatır. Tarihlerde ana kaynak [[Projects/Korku/World/Wathia Kronoloji Uzun anlatım|uzun kronoloji]] geçerlidir.
 
-0-[[Projects/Korku/Characters/Joanna Rothburn|Joanna]]'nın ortaya çıkışı
-2- İlk büyük galibiyet
-3- Yeniden Fetih'in başlaması
-5- Lamegos'un kurtarılması
-6- Lamegos'un Kuzeyindeki [[Projects/Korku/Krallıklar/Geçmiş/Merling|Merling]] ordularının geri çekilmesi
-8- Joanna'nın Kraliçe ilan edilmesi
-10- I.[[Projects/Korku/Karakterler/Soylu Karakterler/Rothburn/Joan Rothburn|Joan Rothburn]] tahta geçti.
-(10-22) kalan Merling lejyonlarinin temizlenmesi
-(10-35 Lütuf'un yayılması)
-43- [[Projects/Korku/World/Lütuf Muhafızları ve Morte_nin Kurumsallaşması|Lütuf Muhafızları]] kuruldu.
-45- I.Joan öldü
+## Kronolojik yerleştirme
 
-“Bir de Merling düştükten sonra bence Mortecilerdeb kaçan ikinci bir Merling akını olmak zorunda”
+- **Yıl 0:** [[Projects/Korku/Characters/Joanna Rothburn|Joanna]]'nın ortaya çıkışı ve Wathia isyanının başlaması.
+- **Yıl 2:** İlk büyük galibiyet.
+- **Yıl 3–8:** Yeniden Fetih ve kuzeydeki güç dengelerinin kurulması.
+- **Yıl 5–6:** Lamegos'un kurtarılması ve kuzeydeki [[Projects/Korku/Krallıklar/Geçmiş/Merling|Merling]] kuvvetlerinin geri çekilmesi.
+- **Yıl 8:** Joanna'nın kraliçe ilan edilmesi.
+- **Yıl 10–15:** Joan'ın siyasi rolünün belirginleşmesi ve idari konsolidasyon.
+- **Yıl 13–15:** Nehir Baronlarının son büyük isyanı.
+- **Yıl 15:** Joanna'nın ölümü ve [[Projects/Korku/Karakterler/Soylu Karakterler/Rothburn/Joan Rothburn|Joan Rothburn]]'ün tahta geçmesi.
+- **Yıl 18:** Joan'ın Lütuf Muhafızlarını kurumsal bir yapıya dönüştürmesi.
+- **Yıl 35–52:** Lütuf Muhafızlarının ve Rothburn meşruiyetinin Wathia geneline yayılması.
 
-Büyük Merling Göçü
+## Köken
 
-Zamanında [[Projects/Korku/Krallıklar/Günümüz/Wathia|Wathia]]’yı işgale gelen 1. Merling’lerin ana karakollarının merkezi [[Projects/Korku/Krallıklar/Günümüz/Wathia/Aileler/Büyük Aileler/Cermont|Cermont]] nehirleri üzerinde olmuştur. Savaşın ana kordinasyon merkezleri, lojistik hatların geçiş yolları… Hepsi bu nehirler üzerine kurulmuştur.
+Wathia'yı işgale gelen ilk Merling kuvvetlerinin ana karakolları Cermont nehirleri üzerinde kurulmuştu. Savaşların koordinasyon merkezleri, lojistik hatları ve kaleleri bu nehirler boyunca yoğunlaştı.
 
-Savaş bittikten sonra da bazı Merlingliler öldürülmüş ve sürülmüş olsa bile yapmış oldukları kaleler, gerçekleşmiş kültürel kaynaşma kalmış oldu.
+Savaş sonrasında bazı Merlingliler öldürülmüş veya sürülmüş olsa da kaleler ve kültürel izler kaldı. Cermont yapısından farklı, Merling etkisi güçlü bu yerel soylular zamanla Nehir Baronlarını oluşturdu.
 
-İşte bu, Cermont’un genel yapısından daha farklı ve merlingçi kültüre sahip olan Nehir Baronlarını doğurmuş oldu.
-
-Nehir üzerine Merling’lilerin kurduğu kaleler orijini olan bu baronlar devamlı Cermont’lularla savaş halinde olmuştur ve çoğu kez Cermont boyunduruğu altına girmeyi reddetip isyan etmiştir. Wathia tarihi boyunca pek çok kez bu Cermont ve Nehir Baronları savaşlarını görebiliriz.
+Nehir Baronları, Cermont merkezî otoritesiyle sık sık çatışan ve boyunduruk altına girmeyi reddeden bir bölgesel güç olarak Wathia tarihinin sonraki dönemlerinde de varlığını sürdürdü.

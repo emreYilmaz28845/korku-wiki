@@ -16,6 +16,13 @@ configuration:
     # Campaign notes and their assets are private source-vault material.
     - Projects/Korku/Campaigns/**
     - Projects/Korku/Assets/Campaigns/**
+    # Chapters, archived drafts, and source documents are not public content.
+    - Projects/Korku/Bölümler.md
+    - Projects/Korku/Bölümler/**
+    - Projects/Korku/Arşiv/**
+    - Projects/Korku/**/*.docx
+    - Projects/Korku/**/*.pdf
+    - Projects/Korku/**/*.txt
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

@@ -15,9 +15,17 @@ if [[ ! -d "$source_root" ]]; then
   exit 1
 fi
 
-# These paths are campaign spoilers and must remain in the private vault.
+# These paths are private, non-canonical, or non-renderable source material.
+# They must remain out of the public repository.
 rsync -a --delete \
   --exclude='Campaigns.md' \
   --exclude='Campaigns/***' \
   --exclude='Assets/Campaigns/***' \
+  --exclude='Bölümler.md' \
+  --exclude='Bölümler/***' \
+  --exclude='Arşiv/***' \
+  --exclude='*.docx' \
+  --exclude='*.pdf' \
+  --exclude='*.txt' \
+  --exclude='.DS_Store' \
   "$source_root/" "$target_root/"

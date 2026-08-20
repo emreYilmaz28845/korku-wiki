@@ -1,5 +1,7 @@
 ---
 type: world-lore
+status: canon
+canon_priority: primary
 up:
   - "[[Projects/Korku/World]]"
 ---
@@ -2650,7 +2652,6 @@ Pittnor temsilcisi anlaşmanın imzalandığı gece Caron'a mektup yazdı: "İst
 Caron mektubu okudu, yakıp kül etti. Ama yanındaki tek kişiye şunu söyledi: "Beklememiz gerekmiyor artık. Sadece zamanın gelmesini izliyoruz."
 
 
-Önce bağlam için önceki transkripte bakayım — özellikle J9-J12 arası ne var.Gerekli her şeyi aldım. Şimdi J11 (343-356) ve J12 (356-380) dönemlerini detaylıca yazıyorum. Özellikle istenilen: neden hanedanlar bu şekilde saflaştı, Pittnor'un planının işleyişi, LM'nin içler acısı hali ve J12'nin arabulucu profili.
 
 ---
 

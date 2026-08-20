@@ -17,3 +17,9 @@ quartz/cli/tui/dist/
 content/Projects/Korku/Campaigns.md
 content/Projects/Korku/Campaigns/
 content/Projects/Korku/Assets/Campaigns/
+content/Projects/Korku/Bölümler.md
+content/Projects/Korku/Bölümler/
+content/Projects/Korku/Arşiv/
+content/Projects/Korku/**/*.docx
+content/Projects/Korku/**/*.pdf
+content/Projects/Korku/**/*.txt

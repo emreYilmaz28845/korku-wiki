@@ -1,14 +1,43 @@
 ---
 type: world-lore
+status: canon-compatible
 up:
   - "[[Projects/Korku/World]]"
+canon_source: "[[Projects/Korku/World/Wathia Kronoloji Uzun anlatım]]"
 ---
 
-[[Projects/Korku/Krallıklar/Günümüz/Wathia|Wathia]] kurulalı belki de 200-250 sene oldu, Reformist ve Monarşist iç savaşının sonunda orta yol bir veliaht seçilmişti (J9). J9’un güçsüzlüğü [[Projects/Korku/World/Lütuf Muhafızları ve Morte_nin Kurumsallaşması|LM]]’nin iyice büyümesi ve güçlenmesiyle sonuçlandı. LM büyüdükçe kendi içinde pastadan pay almak isteyenlerin karmaşıklığı arttı. Wathia’nın gelinen noktasında [[Projects/Korku/Data/Aberos|Aberos]] LM ve [[Projects/Korku/World/Louvas Hakkında|Louvas]] LM diye iki büyük LM kanadına ayrıldı. Bu bölünme ilk başta bir coğrafi anlayış farkıydı. Louvas LM daha militarist ve daha savaşçıyken Aberos LM, LM’nin bürokratik kanadını oluşturuyordu. Kronolojik bakacak olursak ilk LM’nin asıl devamı Louvas LM çünkü LM denen şey Louvasta [[Projects/Korku/Karakterler/Soylu Karakterler/Rothburn/Joan Rothburn|Joan Rothburn]] tarafından kurulmuş bir yapıdır. Yine de J9’la birlikte Krallığın asıl yönetim kısmının iyice LM’ye hizalanmasıyla birlikte yönetim ve bürokrasi işleriyle iyice haşır neşir olan bir Aberos LM kanadı doğmuş oldu. Asıl LM olmalarına karşın Aberos LM’nin gücü bir hayli artmaya başladı çünkü yönetime onlardan daha yakın hatta belki de onlardan daha fazla güce sahip olmuşlardı.
-Olayları geren birden fazla durum vardı ama en çok vuran durum ise Aberostaki LM kanadının güney bölgelerinde tespit edilen morteye yatkın çocukların Louvas LM'ye gönderilmeden direkt Aberosta yeni yapılacak karargahına yollanma kararıydı.
-Bu durumun büyüklüğünü anlamak için LM için en önemli şeyi anlamak lazım; insan gücü. LM'deki insanlar morteyi bükebildikleri için normalden çok daha az yaşayabilen ve üreyemeyen insanlardan oluşuyor. Bu yüzden LM'nin normal bi şekilde devam edebilmesi için devamlı bir insan akışı olması lazım. LM, bunu her yeni doğan çocuğu test ederek yapıyor. Osmanlıdaki devşirme sistemine benzer bir sistemde eğer çocuğun morteye yatkınlığı tespit edilirse ailenin rızası gözetilmeksizin Louvas'a LM ana karargahına alınıyor. Burada sert testlerden geçiliyor ve çoğu zaman 10 çocuktan 2,3'ü anca hayatta kalabiliyor. Bu yüzden LM'nin devam edebilmesi için devamlı ve yoğun bir insan akışının olması şart.
-Aberos güneydeki akışı kendine alıp kendi karargahını açma kararı alınca kayış kopuyor. Louvastaki LM derhal bu kararı geri alıp karargahı kapatmasını emrediyor, Aberos LM ise bizzat kralın ağzı olarak konuşuyor. Dönemin Wathia kralı J10, Louvas LM'sinin herhangi bir şeyi emredemeyeceğini kendisinin kral olduğunu söylüyor.
-Bundan sonrası iyice gerginliğin artması ve büyük iç savaş.
-Bu büyük iç savaş'ta Louvas LM daha güçlü olduğu için sayıca daha az olsa bile büyük kıyımlarla ilerliyor. En son Aberos kuşatmasında, yeni kurulan karargahta (?) büyük bir patlama oluyor. Aberos LM'si feshediliyor ve Wathia Kralı J10 tahttan indiriliyor. Louvas LM'sinin seçtiği bir [[Projects/Korku/Krallıklar/Günümüz/Wathia/Aileler/Büyük Aileler/Rothburn|rothburn]] ismi tahta geçiyor J11. Bu olay bütün hanedanlar tarafından büyük şok ve korku ile karşılanıyor. Onlar için Lütuf Muhafızları ne Lütuf ne de Muhafızı oluyor. Onlar ki Wathia'nın koruyucusu ve kurtarıcısı olacakken kendi insanını bu güçlerle öldürebiliyor. Durumun farkına varan o dönemin [[Projects/Korku/Krallıklar/Günümüz/Wathia/Aileler/Büyük Aileler/Pittnor|Pittnor]] lideri diğer hanedanlarla görüşmeye başlıyor. Pittnor lideri LM'nin en büyük zayıflığının farkında; insan gücü. Bundan dolayı bütün hanedanlar bir anda insan akışını durduruyorlar. Köylerdeki LM rahipleri kovuluyor/öldürülüyor, yerel karargahlar basılıyor.
-Bu sırada Louvas da karışık, büyük patlama sonrası Louvas LM'sinin içinde bile büyük görüş ayrılıkları oluyor ve çalkantılar başlıyor. Baştaki agresif ve sert klik, ılımlılar tarafından sevilmiyor.
-Bütün hanedanlar bir bakıma LM'ye ambargo uygulayınca ve ticareti kesince, ılımlı klik daha da çok güçlenmeye başlıyor. İşin sonunda 5 yıl kadar bir sürede Sert Militarist LM tasfiye ediliyor. Wathia Kralı olarak daha ılımlı biri, 7. Joan Rothburn başa geçiyor. Ilımlı LM ile birlikte birçok farklı karar alınıyor. Bunlardan biri de artık [[Projects/Korku/World/Morte|morte]] yatkın çocukların alınırken aileye ödenen paranın artması ve ailenin veto hakkı oluyor. Bütün bunlarla LM'nin giderek güçsüzleştiğini görüyoruz. Bu sefer de tekrardan Militarist LM kanadı, Ilımlı LM'yi eleştirmeye başlıyor. Artık LM eski günlerinden çok daha güçsüz, çok daha az insan gücüne sahip. Bu dönemde yeni başa geçen Joan Rothburn hem LM'nin azalmış gücünü iyice elinden almaya devam edip hem de krallığı korumaya çalışıyor. O sırada Pittnorlar ellerindeki gücün farkına varıp aslında LM'lerden çok daha güçlü olduklarını fark ediyor. Joan rothburn görece uzun dönem yönetirken, hükümranlığının sonlarına doğru [[Projects/Korku/World/Ruxhold Hanedanı|Ruxhold]] isyani kopuyor. LM'nin çoğu krallıktan kaçarken bazıları Rothburn'ü koruyor. En sonunda Louvasın da teslim olmasıyla beraber Rothburn dönemi sona eriyor.
+# LM İç Savaşı
+
+> [!info] Kanon notu
+> Bu sayfa Lütuf Muhafızları içindeki bölünmeyi özetler. Tarih ve hükümdar sıralamasında uzun kronoloji geçerlidir.
+
+## Bölünmenin zemini
+
+J9'un 265–320 arasındaki döneminde Lütuf Muhafızları hem krallığın yönetiminde hem de askerî yapısında büyük ağırlık kazandı. Zamanla iki ana merkez ortaya çıktı:
+
+- **Louvas LM:** Askerî, gelenekçi ve kurumun eski savaşçı kimliğini korumaya çalışan kanat.
+- **Aberos LM:** Saraya, bürokrasiye ve krallığın günlük yönetimine daha yakın kanat.
+
+Bu ayrım başlangıçta coğrafi ve işlevsel bir farktı; iki tarafın kendi meşruiyetini üretmeye başlamasıyla siyasî çatışmaya dönüştü.
+
+## J10 dönemindeki kırılma
+
+Güney bölgelerinde tespit edilen Morte yatkını çocukların doğrudan Aberos'taki yeni merkeze alınması kararı, Louvas'ın insan gücü ve eğitim üzerindeki kontrolünü sarstı. Morte yatkınlarının taranması, eğitimi ve kuruma alınması LM'nin varlığını sürdürmesi için hayatiydi.
+
+Louvas bu kararı geri aldırmaya çalıştı. Aberos kanadı ise kralın yetkisini ve kendi idarî sorumluluğunu öne sürdü. J10 döneminde gerilim açık iç savaşa dönüştü.
+
+## Aberos Patlaması ve sonuçları
+
+Louvas kanadı askerî olarak üstün geldi ve Aberos kuşatması sırasında büyük bir patlama yaşandı. Patlamanın ayrıntıları tarihçiler arasında tartışmalı olsa da sonuç nettir: Aberos LM'si dağıldı, J10'un iktidarı sona erdi ve Louvas'ın desteklediği J11 tahta çıktı.
+
+Bu olay LM'nin halkı koruyan kutsal kurum imajını kırdı. Büyük hanedanlar Morte yatkını çocukların kuruma akışını kısıtladı; yerel LM yapıları dağıtıldı ve kurumun insan gücü hızla azalmaya başladı.
+
+## J11 ve J12 dönemleri
+
+Louvas içindeki sert askerî kanat ile ılımlı kanat arasındaki mücadele sürerken kraliyet, LM'nin yetkilerini daraltmaya başladı. J12'nin 356–380 arasındaki reformları ailelerin veto hakkını güçlendirdi, LM'nin bağımsız askerî hareket alanını ve vergi yetkisini sınırladı.
+
+Bu kararlar kısa vadede istikrar sağladı; uzun vadede ise LM'yi siyasî ve askerî olarak zayıflattı. Pittnor ve diğer hanedanlar bu zayıflamayı kullanarak Rothburn merkezî otoritesinden uzaklaştı.
+
+## Ruxhold İsyanı
+
+380'de Ruxhold isyanı başladığında LM eski gücünde değildi. Rothburn tarafını korumaya çalışsa da krallığı kurtaramadı. Louvas kuşatmayla alınmadı; kurumun teslim olmasıyla Rothburn dönemi sona erdi. Kaçan LM mensuplarının ve hayatta kalan Rothburn kollarının akıbeti, ana kronolojide kesinleştirilmemiş alanlardan biridir.
